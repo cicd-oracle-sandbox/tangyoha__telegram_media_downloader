@@ -1,4 +1,4 @@
 upstream: https://github.com/tangyoha/telegram_media_downloader
 commit: fe7ccdc2cc5fce5b04a464bc66cfb1266bf7ef45
 license: MIT
-Unmodified snapshot except that .github/workflows was emptied.
+Unmodified snapshot except that .github/workflows was emptied and .github/dependabot.yml was removed (so Dependabot does not open PRs in the sandbox).
